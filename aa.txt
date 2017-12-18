@@ -1,2 +1,3 @@
 AAA
 git status git diff
+git is free software distribute under append GPL
