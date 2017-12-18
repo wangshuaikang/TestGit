@@ -4,4 +4,3 @@ git is free software distribute under append GPL
 git called stage
 git change
 git change 2
-chexiao gongneng
